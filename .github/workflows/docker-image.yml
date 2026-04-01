@@ -4,6 +4,7 @@ on:
     branches:
       - main
       - develop
+      - feature/login-try
   workflow_dispatch:
 jobs:
   pyapp-ci:
